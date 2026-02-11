@@ -1,4 +1,6 @@
 # Some file extensions and directories I want git to ignore
 *.csv
-data/
+HEAD
+data-raw/
+datasets/
 secrets.txt
